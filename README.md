@@ -33,7 +33,7 @@ source .venv/bin/activate
 ```bash
 pip install --upgrade pip
 # Example packages commonly used by ingestion pipelines. Add or replace with your project's requirements.
-pip install kafka-python pandas requests 
+pip install kafka-python pandas requests
 ```
 
 3. Run a single ingestion:
