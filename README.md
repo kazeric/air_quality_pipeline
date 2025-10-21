@@ -3,6 +3,10 @@
 # Air Quality Pipeline
 
 This repository contains an air-quality data ingestion pipeline used for collecting, batching, and consuming sensor data. It includes scripts for streaming and batch ingestion, a Kafka consumer , and dashboard/query artifacts for Grafana. The project is intended as a data engineering exercise and a reference for setting up ingestion pipelines and dashboards for time-series data.
+
+<img width="1980" height="360" alt="DFA for a drink dispenser" src="https://github.com/user-attachments/assets/0892f741-3625-44c5-828a-e7486828e9fd" />
+
+
 <img width="1620" height="883" alt="image" src="https://github.com/user-attachments/assets/a5c18f0b-bf44-4521-9c94-3f827bdd18d6" />
 
 ## Repository structure
